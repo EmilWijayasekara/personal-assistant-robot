@@ -1,13 +1,3 @@
-/** JAUNDICE: AI Assistant robot with Arduino and Python **
- *  
- *  author: ashraf minhaj
- *  mail: ashraf_minhaj@yahoo.com
- *  Last Edit: Nov 2020
- *  
- *  License: Copyright (C) Ashraf Minhaj.
- *  General Public License (GPL3+)
-*/
-
 #include<Servo.h>
 
 Servo head;
